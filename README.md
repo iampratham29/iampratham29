@@ -19,10 +19,8 @@
 
 
 <br />
-<img align="right" alt="GIF" src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/media/5c8264a20b247115b68e6c2f4c97d5e6.gif?raw=true" width="450" height="290" /> 
 
 
-![Profile visits](https://visitor-badge.laobi.icu/badge?page_id=iampratham29)
 
 ### Languages :
 
@@ -33,22 +31,33 @@
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=for-the-badge&logo=javascript)
 ![Django](https://img.shields.io/badge/Django-blueviolet?style=for-the-badge&logo=django)
 
+### Tech Stalkers :
 
-<p align = "left">
-   <img src = "https://github-readme-stats.vercel.app/api?username=iampratham29&theme=tokyonight&show_icons=true&hide=stars" align = "left" width="50%">
-</p>
+![Profile visits](https://visitor-badge.laobi.icu/badge?page_id=iampratham29)
 
-<p align = "right">
-     <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=iampratham29&theme=tokyonight" align = "right" width="40%">
-</p>
 <p>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=iampratham29&theme=dark" />
+<img alt="GIF" src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/media/5c8264a20b247115b68e6c2f4c97d5e6.gif?raw=true" width="100%" height="290" /> 
 </p>
+
+<p>
+<p align = "left">
+   <img src = "https://github-readme-stats.vercel.app/api?username=iampratham29&theme=tokyonight&show_icons=true&hide=stars" align = "left" width="40%" height="200">
+</p>
+<p align = "right">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=iampratham29&theme=dark" align = "right" width="40%" height="200"/>
+</p>
+</p>
+
+
+
 
 <!--
 **iampratham29/sampleproject** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
+<p align = "right">
+     <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=iampratham29&theme=tokyonight" align = "right" width="40%">
+</p>
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -59,4 +68,3 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
