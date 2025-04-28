@@ -3,11 +3,11 @@
 <h3 align="center">I am a Computer Engineer, Web developer & ML researcher</h3>
 
 
-- 💻 **[Check out my projects!](https://github.com/iampratham29?tab=repositories)**
+- 💻 **[Check out my projects!](https://projects.iampratham29.com/)**
 
 - Looking forward to contribute to **Open Source projects**
 
-- 👨‍💻 Deployed Projects : [https://projects.iampratham29.com/]
+- 👨‍💻 Project Repo's : [(https://github.com/iampratham29?tab=repositories)]
 - 👯 I’m looking to collaborate on 
 - 😁💻🔌  Coding | Sanskrit | Reading | History | Finance | Poetry  
 - 📫 Reach 👇<br>
