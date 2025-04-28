@@ -7,8 +7,7 @@
 
 - Looking forward to contribute to **Open Source projects**
 
-- 👨‍💻 Currently Working for SIH Grand Finale : [https://space-vaarta.herokuapp.com/]
-- 🌱 Also check cobb finder : [https://cobbfinder.herokuapp.com/] 
+- 👨‍💻 Deployed Projects : [https://projects.iampratham29.com/]
 - 👯 I’m looking to collaborate on 
 - 😁💻🔌  Coding | Sanskrit | Reading | History | Finance | Poetry  
 - 📫 Reach 👇<br>
