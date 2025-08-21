@@ -1,69 +1,48 @@
+<h1 align="center">Hi there 👋, I'm Prathmesh Choudhari</h1>
+<h3 align="center">Grad Student at University of Florida, AI-First Builder, Software Engineer</h3>
 
-<h1 align="center">Hi Folks👋, Prathmesh here!</h1>
-<h3 align="center">I am a Computer Engineer, Web developer & ML researcher</h3>
+<p align="center">
+<a href="https://projects.iampratham29.com/" target="_blank">
+<img src="https://img.shields.io/badge/My%20Projects-black?style=for-the-badge&logo=appveyor" alt="My Projects">
+</a>
+<a href="https://github.com/iampratham29?tab=repositories" target="_blank">
+<img src="https://img.shields.io/badge/All%20Repos-171515?style=for-the-badge&logo=github" alt="All Repos">
+</a>
+</p>
 
+About Me
+💡 I'm passionate about building intelligent systems and solving complex problems with code.
 
-- 💻 **[Check out my projects!](https://projects.iampratham29.com/)**
+🌱 I’m currently focused on contributing to open-source projects.
 
-- Looking forward to contribute to **Open Source projects**
+👯 I’m looking to collaborate on projects related to AI, machine learning, and full-stack development.
 
-- 👨‍💻 Project Repo's : [(https://github.com/iampratham29?tab=repositories)]
-- 👯 I’m looking to collaborate on 
-- 😁💻🔌  Coding | Sanskrit | Reading | History | Finance | Poetry  
-- 📫 Reach 👇<br>
+📚 My interests include coding, Sanskrit, history, finance, and poetry.
 
-[![](https://img.shields.io/badge/-Prathmesh_Choudhari-blue?style=for-the-badge&logo=Linkedin&logoColor=white&linkhttps://www.linkedin.com/in/prathmesh-choudhari-943769170/)](https://www.linkedin.com/in/prathmesh-choudhari-943769170/)
-[![](https://img.shields.io/badge/-chouhaariprathmesh001@gmail.com-c14438?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:prathmesh)](mailto:choudhariprathmesh001@gmail.com)
-[![](https://img.shields.io/badge/-iampratham29-171515?style=for-the-badge&logo=github&logoColor=white)](https://github.com/iampratham29)
-
-
-<br />
-
-
-
-### Languages :
-
-![Python](https://img.shields.io/badge/-Python-orange?style=for-the-badge&logo=Python)
-![C++](https://img.shields.io/badge/-C++-00599C?style=for-the-badge&logo=c%2B%2B)
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3)
-![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=for-the-badge&logo=javascript)
-![Django](https://img.shields.io/badge/Django-blueviolet?style=for-the-badge&logo=django)
-
-### Tech Stalkers :
-
-![Profile visits](https://visitor-badge.laobi.icu/badge?page_id=iampratham29)
-
+Languages & Frameworks
 <p>
-<img alt="GIF" src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/media/5c8264a20b247115b68e6c2f4c97d5e6.gif?raw=true" width="100%" height="290" /> 
+<img src="https://img.shields.io/badge/-Python-orange?style=for-the-badge&logo=Python" alt="Python">
+<img src="https://img.shields.io/badge/-C++-00599C?style=for-the-badge&logo=c%2B%2B" alt="C++">
+<img src="https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
+<img src="https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3" alt="CSS3">
+<img src="https://img.shields.io/badge/-JavaScript-black?style=for-the-badge&logo=javascript" alt="JavaScript">
+<img src="https://img.shields.io/badge/Django-blueviolet?style=for-the-badge&logo=django" alt="Django">
 </p>
 
-<p>
-<p align = "left">
-   <img src = "https://github-readme-stats.vercel.app/api?username=iampratham29&theme=tokyonight&show_icons=true&hide=stars" align = "left" width="40%" height="200">
-</p>
-<p align = "right">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=iampratham29&theme=dark" align = "right" width="40%" height="200"/>
-</p>
+My Stats
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=iampratham29&theme=tokyonight&show_icons=true&hide=stars" alt="Prathmesh's GitHub Stats">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=iampratham29&theme=dark" alt="Prathmesh's GitHub Streak">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iampratham29&theme=tokyonight" alt="Top Languages">
 </p>
 
+Connect with Me
+📫 Email: choudhariprathmesh001@gmail.com, ps.choudhari@ufl.edu
 
+💼 LinkedIn: Prathmesh Santosh Choudhari
 
+🐙 GitHub: @iampratham29
 
-<!--
-**iampratham29/sampleproject** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-<p align = "right">
-     <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=iampratham29&theme=tokyonight" align = "right" width="40%">
+<p align="center">
+<img alt="GIF" src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/media/5c8264a20b247115b68e6c2f4c97d5e6.gif" width="100%" height="290" />
 </p>
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
