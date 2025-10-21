@@ -9,8 +9,12 @@
 <img src="https://img.shields.io/badge/All%20Repos-171515?style=for-the-badge&logo=github" alt="All Repos">
 </a>
 </p>
- 
-## 🚀 About Me.
+
+<p align="left"> 
+  <img src="https://komarev.com/ghpvc/?username=iampratham29&label=Profile%20views&color=0e75b6&style=flat&base=951" alt="iampratham29" /> 
+</p>
+
+## 🚀 About Me
 💡 I'm passionate about building intelligent systems and solving complex problems with code.
 
 🌱 I’m currently focused on contributing to open-source projects.
@@ -19,21 +23,85 @@
 
 📚 My interests include coding, Sanskrit, history, finance, and poetry.
 
+---
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/Prathmesh-Santosh-Choudhari" target="blank">
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Prathmesh" height="30" width="40" />
+</a>
+<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
+</p>
+
+---
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> 
+
+<!-- Cloud -->
+<a href="https://aws.amazon.com" target="_blank"> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> 
+</a> 
+<a href="https://azure.microsoft.com" target="_blank"> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original.svg" alt="azure" width="40" height="40"/> 
+</a> 
+<a href="https://cloud.google.com/" target="_blank"> 
+  <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> 
+</a> 
+
+<!-- Programming & Web -->
+<a href="https://www.python.org/" target="_blank">
+  <img src="https://img.shields.io/badge/Python-orange?style=for-the-badge&logo=python" alt="Python"/>
+</a>
+<a href="https://www.javascript.com/" target="_blank">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
+</a>
+
+<!-- ML & DL -->
+<a href="https://scikit-learn.org/" target="_blank"> 
+  <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit-learn" width="40" height="40"/> 
+</a> 
+<a href="https://www.tensorflow.org/" target="_blank"> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" alt="tensorflow" width="40" height="40"/> 
+</a> 
+<a href="https://pytorch.org/" target="_blank"> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg" alt="pytorch" width="40" height="40"/> 
+</a> 
+
+<!-- Databases & Tools -->
+<a href="https://www.postgresql.org/" target="_blank"> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="postgresql" width="40" height="40"/> 
+</a> 
+<a href="https://git-scm.com/" target="_blank"> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="40" height="40"/> 
+</a> 
+
+</p>
+
+## 🛠️ Tools & Technologies  
+
+- **Programming:** Python • C++ • Java Spring Boot • Node.js • PHP • Django
+
+- **AI & Data Science:** Scikit-learn • TensorFlow • Pytorch • Pandas • OpenCV • Deep Learning • LLMs • RAG
+
+- **Cloud & MLOps:** AWS • Azure • GCP • Docker • FastAPI
+
+- **Databases & Storage:** PostgreSQL • MySQL • Vector DBs
+
+---
+
+## 📌 Featured Projects  
+
+- ⚡ **RAG Pipelines:** Built RAG systems for finance and manufacturing.
+- 🧠 **LLM Fine-tuning:** Fine-tuned models for domain-specific tasks.
+- 👁️ **Computer Vision:** Projects with YOLO and OpenCV for detection tasks.
+- 📈 **Churn & Segmentation:** Built churn KPIs and clustering pipelines.
+
+---
 
 ## 🚀 Tech Stack
 
 <table>
-  <tr>
-    <td><b>Programming</b></td>
-    <td>
-      <img src="https://img.shields.io/badge/Python-orange?style=for-the-badge&logo=python" alt="Python"/>
-      <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B" alt="C++"/>
-      <img src="https://img.shields.io/badge/Java%20Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot" alt="Spring Boot"/>
-      <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php" alt="PHP"/>
-      <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs" alt="Node.js"/>
-      <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django" alt="Django"/>
-    </td>
-  </tr>
   <tr>
     <td><b>Web Development</b></td>
     <td>
@@ -70,18 +138,10 @@
   </tr>
 </table>
 
-My Stats
+---
+
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=iampratham29&theme=tokyonight&show_icons=true&hide=stars" alt="Prathmesh's GitHub Stats">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=iampratham29&theme=dark" alt="Prathmesh's GitHub Streak">
-
-## 🚀 Connect with Me
-📫 Email: choudhariprathmesh001@gmail.com, ps.choudhari@ufl.edu
-
-💼 LinkedIn: Prathmesh Santosh Choudhari
-
-🐙 GitHub: @iampratham29
-
-<p align="center">
-<img alt="GIF" src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/media/5c8264a20b247115b68e6c2f4c97d5e6.gif" width="100%" height="290" />
 </p>
+
